@@ -1,4 +1,4 @@
-# GrassClipper-X
+# GrassClipper X
 A MiHoYo-like launcher for custom servers, better UI &amp; insensible proxy.
 
 [![Releases](https://img.shields.io/github/v/release/Grasscutters/GrassClipper-X?color=green&include_prereleases&label=download%20at%20releases&logo=github&style=for-the-badge)](https://github.com/Grasscutters/GrassClipper-X/releases/latest)
@@ -37,8 +37,9 @@ A MiHoYo-like launcher for custom servers, better UI &amp; insensible proxy.
     - [ ] Windows X86
     - [ ] Linux X64
     - [ ] Linux X86
-    - [ ] macOS
+    - [ ] macOS (?)
     - [ ] Android (?)
+    - [ ] iOS (?)
     
 Any feature requests? Please let me know in [issues](https://github.com/Grasscutters/GrassClipper-X/issues).
 
