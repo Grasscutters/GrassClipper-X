@@ -1,3 +1,7 @@
+## Archival Notice
+GrassClipper-X is **closed source** and has not been updated in quite a while.\
+Consider using GrassClipper by SpikeHD or wait for Cultivation by SpikeHD & KingRainbow44.
+
 # GrassClipper X
 A MiHoYo-like launcher for custom servers, better UI &amp; insensible proxy.
 
